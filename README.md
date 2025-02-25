@@ -1,2 +1,2 @@
-# Maven Challenge Project Dashboards
+# Challenge Project Dashboards
  
